@@ -1,0 +1,9 @@
+dash
+flask
+tensorflow
+numpy
+pybase64
+scikit-image
+Pillow
+dash_bootstrap_components
+opencv-python-headless==4.5.3.56
